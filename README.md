@@ -1,4 +1,4 @@
-# for code 
+# For code 
 Please modify datasetPath and modelSavePath according your own path in args.py.
 
 Train through train.py.
@@ -6,7 +6,7 @@ Validate and test through test.py.
 
 
 
-# for dataset 
+# For dataset 
 The dataset can be downloaded in A.
 
 In order to protect personal privacy, all data is desensitized. Each case contains a category label and a numpy array. The label can be obtained from the folder name or txt file. Each number in the numpy array represents the HU (Hounsfield Unit) value in the CT image.
